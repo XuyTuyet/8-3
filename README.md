@@ -1,2 +1,2 @@
 # 8-3
-https://github.com/XuyTuyet/8-3.git
+https://xuytuyet.github.io/8-3/
